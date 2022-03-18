@@ -8,7 +8,7 @@ const Home = ({
 }) => {
     console.log(data)
     return <div>
-        home
+        home is edited
         <Head>
             <title>this is title</title>
         </Head>
